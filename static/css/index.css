@@ -1,0 +1,190 @@
+body {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+
+.footer .icon-link {
+    font-size: 25px;
+    color: #000;
+}
+
+.link-block a {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.dnerf {
+  font-variant: small-caps;
+}
+
+
+.teaser .hero-body {
+  padding-top: 0;
+  padding-bottom: 3rem;
+}
+
+.teaser {
+  font-family: 'Google Sans', sans-serif;
+}
+
+
+.publication-title {
+}
+
+.publication-banner {
+  max-height: parent;
+
+}
+
+.publication-banner video {
+  position: relative;
+  left: auto;
+  top: auto;
+  transform: none;
+  object-fit: fit;
+}
+
+.publication-header .hero-body {
+}
+
+.publication-title {
+    font-family: 'Google Sans', sans-serif;
+}
+
+.publication-authors {
+    font-family: 'Google Sans', sans-serif;
+}
+
+.publication-venue {
+    color: #555;
+    width: fit-content;
+    font-weight: bold;
+}
+
+.publication-awards {
+    color: #ff3860;
+    width: fit-content;
+    font-weight: bolder;
+}
+
+/* ── Venue badge ─────────────────────────────── */
+.venue-badge {
+  margin-top: 8px;
+  margin-bottom: 4px;
+}
+
+.badge-cvpr {
+  background-color: #1a73e8;
+  color: white;
+  padding: 4px 14px;
+  border-radius: 4px;
+  font-family: 'Google Sans', sans-serif;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+/* ── Logos ───────────────────────────────────── */
+.logo-row {
+  margin-top: 8px;
+}
+
+.inst-logo {
+  height: 72px;
+  object-fit: contain;
+}
+
+.lab-logo {
+  height: 72px;
+  object-fit: contain;
+}
+
+.publication-authors {
+}
+
+.publication-authors a {
+   color: hsl(204, 86%, 53%) !important;
+}
+
+.publication-authors a:hover {
+    text-decoration: underline;
+}
+
+.author-block {
+  display: inline-block;
+}
+
+.publication-banner img {
+}
+
+.publication-authors {
+  /*color: #4286f4;*/
+}
+
+.publication-video {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+
+    overflow: hidden;
+    border-radius: 10px !important;
+}
+
+.publication-video iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.publication-body img {
+}
+
+.results-carousel,
+.figures-carousel {
+  overflow: hidden;
+}
+
+.results-carousel img {
+  max-width: 80%;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
+
+.results-carousel .item {
+  margin: 5px;
+  overflow: hidden;
+  padding: 20px;
+  font-size: 0;
+}
+
+.results-carousel video {
+  margin: 0;
+}
+
+.results-carousel .result-caption{
+  max-width: 80%;
+  margin: 1rem auto 0 auto;
+}
+
+.slider-pagination .slider-page {
+  background: #000000;
+}
+
+.eql-cntrb { 
+  font-size: smaller;
+}
+
+.qualitative-figure {
+  width: 80% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.qualitative-figure img {
+  width: 100% !important;
+  height: auto;
+  display: block;
+}

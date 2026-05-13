@@ -1,2 +1,0 @@
-# PJD
-Implemention
