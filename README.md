@@ -1,6 +1,6 @@
 # [CVPR 2026] Parallel Jacobi Decoding for Fast Autoregressive Image Generation
 
-[![arXiv](https://img.shields.io/badge/arXiv-2510.18269-b31b1b.svg)](https://arxiv.org/abs/2606.05703)
+[![arXiv](https://img.shields.io/badge/arXiv-2606.05703-b31b1b.svg)](https://arxiv.org/abs/2606.05703)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://boyaliao.github.io/PJD/)
 
 [Boya Liao](https://boyaliao.github.io/), [Ying Li](https://neuraliying.github.io/), [Siyong Jian](https://syjmelody.github.io/), [Huan Wang](https://huanwang.tech/)<sup>*</sup>
