@@ -17,8 +17,16 @@ Westlake University
 
 ## Installation
 
-```
+Clone the repository and create a Conda environment:
+
+```bash
+git clone git@github.com:boyaliao/PJD.git
 cd PJD
+
+conda create -n pjd python=3.10 -y
+conda activate pjd
+
+pip install -r requirements.txt
 pip install -e .
 ```
 
