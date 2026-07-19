@@ -27,11 +27,9 @@ if __name__ == "__main__":
     print("args:\n", args)
 
     select_set1 = [
-        # "Image of a dog playing water, and a water fall is in the background.",
-        # "A family of asian people sitting around the dinner table, eating and laughing.",
-        # "A high-resolution photograph of a middle-aged woman with curly hair, wearing traditional Japanese kimono, smiling gently under a cherry blossom tree in full bloom.",  # noqa
-        # "Image of a bustling downtown street in Tokyo at night, with neon signs, crowded sidewalks, and tall skyscrapers.",  # noqa
-        # "Image of a quiet European village with cobblestone streets and colorful houses, under a clear blue sky.",
+        "Image of a dog playing water, and a water fall is in the background.",
+        "A family of asian people sitting around the dinner table, eating and laughing.",
+        "A high-resolution photograph of a middle-aged woman with curly hair, wearing traditional Japanese kimono, smiling gently under a cherry blossom tree in full bloom.",  # noqa
         "A detailed painting of a gentle anime girl surrounded by glowing butterflies, with soft pastel colors and smooth brush textures, set against a hazy dreamlike background",
     ]
 

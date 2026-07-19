@@ -279,7 +279,7 @@ class FlexARInferenceSolver:
 
         return parser
 
-    def __init__(self, model_path, precision, tokenizer, target_size=512, cache_dir=None, device="cpu"):
+    def __init__(self, model_path, precision, target_size=512, cache_dir=None, device="cpu", tokenizer="Alpha-VLLM/Lumina-mGPT-7B-768",):
         self.dtype = {"bf16": torch.bfloat16, "fp16": torch.float16, "fp32": torch.float32}[precision]
 
         self.device = device

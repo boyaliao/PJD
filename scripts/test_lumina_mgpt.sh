@@ -1,0 +1,3 @@
+export CUDA_VISIBLE_DEVICES=3
+echo "CUDA_VISIBLE_DEVICES=$CUDA_VISIBLE_DEVICES"
+python test_lumina_mgpt.py 
